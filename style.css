@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+         
+
+
+}
+
+.navbar{
+    height: 60px;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    
+    
+   background-size: cover;
+}
+.logo{
+    margin: 10px;
+    margin-left: 80px;
+}
+.Search{
+    display: inline;
+    width: 100%;
+    
+}
+
+    
+
+.Seach ,input{
+    width: 50rem;
+   
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+select{
+    border: none;
+}
+.cart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.gift{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    
+    
+    
+
+}
+.gift p{
+    width: 10rem;
+    margin: 10px;
+    
+    
+}
+.menu{
+width: 2rem;
+display: inline;
+margin-right: 170px;
+
+
+
+
+}
+.menu i{
+position: relative;
+right: 20px;
+}
+.pannel{
+    height: 30vh;
+    width: 100%;
+    background-color: white;
+    box-shadow: 2px 3px 3px 3px;
+    
+}
+.pannel ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    top:30%;
+    left: 20px;
+
+    
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 25px;
+    position: relative;
+    top: 30%;
+    left: 30px;
+    
+    
+
+
+    
+}
+.conteiner{
+    margin-top: 10px;
+    display: flex;
+    
+    
+    justify-content: space-evenly;
+
+
+    
+}
+.conteiner h3{
+    text-align: center;
+
+    
+
+
+}
+
+.box{
+    width: 20rem;
+    margin-top: 10px;
+    background-color: white;
+    background-size: cover;
+    border: 0.5px solid black;
+    margin : 20px;
+    
+    
+
+
+
+
+    
+    
+}
+.box img{
+    margin-left: 20px;
+    margin-top: 20px;
+    background-size: cover;
+
+
+    
+}
+ .box p{
+text-align:center;
+
+ } 
+ .conteiner2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+ } 
+ 
+
+ footer{
+    
+margin: 20px;
+margin-top: 10px;
+
+ }
+ .foot-pannel{
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.9);
+    
+
+    
+ }
+ .list{
+    height: 100%;
+width: 100%;
+border-bottom: 1.3px solid white;
+padding: 10px;
+
+
+
+
+
+ }   
+.list ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+
+}
+li p{
+    color:gray;
+    margin-top: 200px;
+
+}
+li a{
+    display: block;
+    color: white;
+    
+    
+    
+}
+.pannel3{
+    border-top: 1.3px solid white ;
+    margin-top: 200px;    
+
+    
+}
+.pannel3, i p{
+
+
+ color : white; 
+}
+.foot-content{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.foot-content p{
+    
+margin-right: 230px;
+
+}
+.pannel2 img{
+    width: 100rem;
+    background-size: cover;
+    margin-right: 100px;
+}
+
+
+ 
